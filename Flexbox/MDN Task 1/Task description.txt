@@ -1,0 +1,20 @@
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills#task_1
+
+Task 1
+In this task, the list items are the navigation for a site. They should be laid out as a row, with an equal amount of space between each item.
+
+
+Starting HTML:
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About Us</a></li>
+    <li><a href="/products">Our Products</a></li>
+    <li><a href="/contact">Contact Us</a></li>
+  </ul>
+</nav>
+
+Starting CSS:
+nav ul {
+  
+}
