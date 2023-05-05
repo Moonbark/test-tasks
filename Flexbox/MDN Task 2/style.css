@@ -1,0 +1,11 @@
+ul {
+display: flex;
+}
+
+li {
+flex: 1;
+}
+
+/*li:nth-child(1) {
+flex: 2;
+}*/
