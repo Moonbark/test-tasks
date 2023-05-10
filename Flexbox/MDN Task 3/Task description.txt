@@ -1,0 +1,20 @@
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills#task_3
+
+Task 3
+In this task, there are two elements in the HTML below, a <div> element with a class of parent which contains another <div> element with a class of child. Use flexbox to center the child inside the parent. Note that there is not just one possible solution here.
+
+Starting HTML:
+<div class="parent">
+  <div class="child">Center me.</div>
+</div>
+
+
+Starting CSS:
+.parent {
+          
+}
+
+.child {
+
+}
+
