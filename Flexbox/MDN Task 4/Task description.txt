@@ -1,0 +1,29 @@
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills#task_4
+
+Task 3
+In this task, we want you to arrange these items into rows as in the image below
+
+Starting HTML:
+<ul>
+  <li>Turnip</li>
+  <li>greens</li>
+  <li>yarrow</li>
+  <li>ricebean</li>
+  <li>rutabaga</li>
+  <li>endive</li>
+  <li>cauliflower</li>
+  <li>sea lettuce</li>
+  <li>kohlrabi</li>
+  <li>amaranth</li>
+</ul>
+
+
+Starting CSS:
+ul {
+  
+}
+
+li {
+
+}
+
